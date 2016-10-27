@@ -135,5 +135,3 @@ num = 680
 while num < 10000:
     crawl_page('botnet', num, 2010, 2016)
     num += 10
-
-# crawl_page('botnet', 0, 2010, 2016)
