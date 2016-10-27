@@ -21,9 +21,8 @@ headers = {
     'accept-language': 'zh-CN,zh;q=0.8,en;q=0.6',
     'x-client-data': 'CJK2yQEIprbJAQjBtskBCKOZygEIqZ3KAQ==',
 
-    'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50',
-    'cookie': 'GOOGLE_ABUSE_EXEMPTION=ID=f269b96c4bc2c0b0:TM=1477557931:C=c:IP=104.251.227.213-:S=APGng0vnWRAgW2x6VOPUe7UR3Qx2KJT8jg; GSP=A=I39TfQ:CPTS=1477569310:LM=1477569310:S=57G7tpSu6HisD86o; NID=89=TLG-5oxNnS854FHA787afr5b6gTXdzwtpHvtkZrQ4dkO6O4RDFBsNXYPGoZQlOTxYkLMkwTKS6b1KRuQpXqk-dCwhiop-1rUDRNRgygF-x8nLOjXpYlBVOURFr_L0iV45UwBwjfeQKPLpxeIOvU'
-
+    'user-agent': '',
+    'cookie': ''
 }
 
 proxies = {
