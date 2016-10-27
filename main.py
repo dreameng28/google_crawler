@@ -5,7 +5,8 @@ import jieba
 
 # you need to fill this part
 headers = {
-
+    'user-agent':,
+    'cookie':
 }
 
 proxies = {
